@@ -1,2 +1,2 @@
 # FigureBed
-Just Figure Bed
+The Figure Bed.
